@@ -1,0 +1,3 @@
+[submodule "dcat-admin-extensions/liumenggit"]
+	path = dcat-admin-extensions/liumenggit
+	url = https://github.com/liumenggit/dcat-admin-packages.git
